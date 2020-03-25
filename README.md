@@ -1,1 +1,1 @@
-# rock_paper_scissors
+This is my first application coded in JavaScript.
